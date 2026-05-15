@@ -1,6 +1,8 @@
 # 🤖 SuchitBOT
 
 A crazy dark-themed AI chatbot built with FastAPI + Groq (Llama 3.3 70B) + Three.js 3D animations.
+<img width="847" height="639" alt="image" src="https://github.com/user-attachments/assets/09a1dc7a-80c8-4e75-a054-b92f2899d4ee" />
+
 
 ## Features
 - 🌌 3D galaxy particle background
